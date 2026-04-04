@@ -1,0 +1,1 @@
+Why do we still use signatures? I hate awkwardly dragging my mouse around a screen to mimic writing on paper. 
