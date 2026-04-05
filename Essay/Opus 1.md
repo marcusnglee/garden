@@ -5,6 +5,7 @@ Published: UNTRUE
 
 To be a futurist is to have hope for the future. While I’m quite the optimist, I also hold the ever accumulating anxiety and fear that my peers have expressed about the future. 
 
+
 In this essay, I want to frame the purpose of my digital garden. 
 
 I was born in 2004. That means I grew up when soco-digital platforms were commercialized. I do, however, remember watching Kevjumba and Nigahiga over the shoulders of my siblings. Generally speaking, I’d argue that my generation has not seen the internet as liberating or expressive. Rather, its has become a place for performance and identity formation through consumption.
@@ -24,3 +25,9 @@ Motivations for my digital garden
 2. charlie (founder of are.na) and his definition of self, specifically on how it is about learning to recognize what we love
 3. writing is going to be the most effective way for me to continue my self-education after I graduate
 4. tastemaxxing  -> looking inwards
+
+
+# Outline
+1. Intro
+2. What is a Digital Garden?
+3. The Current State of Optimism for the Future
