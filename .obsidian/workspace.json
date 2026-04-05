@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad19b13a82c47821",
+        "id": "307c135d0991051f",
         "type": "tabs",
         "children": [
           {
-            "id": "b35bc599336151c2",
+            "id": "b0f3067abaa577da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Seed/the Attention Market will be corrected.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the Attention Market will be corrected"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1cc91cd36229de8e",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Seed/the Attention Market will be corrected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for the Attention Market will be corrected"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Seed/the Attention Market will be corrected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from the Attention Market will be corrected"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Seed/the Attention Market will be corrected.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of the Attention Market will be corrected"
             }
           }
         ]
@@ -176,12 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "c982be95b20cfe3b",
+  "active": "b0f3067abaa577da",
   "lastOpenFiles": [
-    "Tea/Phoenix Oolong.md",
-    "Seed/The First Number.md",
+    "Seed/Signatures.md",
     "Seed/the Attention Market will be corrected.md",
-    "Project/Federated Learning Composition.md",
-    "Seed/Signatures.md"
+    "Seed/The First Number.md",
+    "Tea/Silence Please.md",
+    "Essay/Opus 1.md",
+    "Essay/fdsa.md",
+    "Project/Federated Learning Composition.md"
   ]
 }
