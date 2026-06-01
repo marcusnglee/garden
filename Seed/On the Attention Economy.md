@@ -1,5 +1,7 @@
 ---
-Published: "true"
+published: "true"
+date:
+aliases:
 ---
        The price of attention, I believe, will soon be correct4ed
 
